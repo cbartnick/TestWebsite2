@@ -24,13 +24,13 @@ repository               : "cbartnick/TestWebsite2.github.io"
 author:
   # Biographic information
   avatar           : "2023Bartnick.jpg"
-  name             : "Charlotte Bartnick"
+  name             : "Charlotte (Amann-)Bartnick"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Freiburg"
-  employer         : "soon Lyon 1 University"
+  employer         : #"soon Lyon 1 University"
   uri              : # URL
-  email            : "charlotte[dot]bartnick[at]math[dot]uni-freiburg[dot]de" 
+  email            : "charlott.bartnick@math.uni-freiburg.de" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
