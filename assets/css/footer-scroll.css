@@ -1,0 +1,12 @@
+/* Footer standardmäßig ausblenden */
+.page__footer {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s ease;
+}
+
+/* Footer am Seitenende einblenden */
+.page__footer.footer-visible {
+  opacity: 1;
+  visibility: visible;
+}
