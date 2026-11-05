@@ -7,3 +7,5 @@ redirect_from:
   - /about.html
 ---
 
+
+This will be Charlotte Bartnick's new website but it is still under construction and still contains some material from the Academic Pages template!
